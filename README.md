@@ -1,4 +1,6 @@
-![logo](https://github.com/70gaurav/70gaurav/blob/main/GAURAV%20KUMAR.png)
+<div align="center">
+  <img src="" height="400" width="700" />
+</div>
 <h1 align="center">Hi 👋, I'm Gaurav kumar</h1>
 <h3 align="center">Learning Web Development</h3>
 <img align="right" alt="coding" width="400" src""
