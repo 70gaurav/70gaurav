@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/76507095/191487843-546f1822-dada-46e4-a441-8183e55495ce.jpg" height="400" width="700" />
-</div>
+
 <h1 align="center">Hi 👋, I'm Gaurav kumar</h1>
 <h3 align="center">Learning Web Development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
