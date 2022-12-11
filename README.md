@@ -3,11 +3,11 @@
 <h3 align="center">Learning Web Development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=70gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="70gaurav" /> </p>
-
-- 📫 How to reach me **gk17265@gmail.com**
-- <div align="right">
+ <div align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
   </div>
+- 📫 How to reach me **gk17265@gmail.com**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
