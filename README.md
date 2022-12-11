@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @70gaurav
+- 👋 Hi, I’m @gaurav
 - 👀 I’m interested in ...Web Designing
 - 🌱 I’m currently learning ...CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 E-mail me-gk17265@gmail.com
+- 📫 E-mail-gk17265@gmail.com
 
 <!---
 70gaurav/70gaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
