@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/76507095/191487843-546f1822-dada-46e4-a441-8183e55495ce.jpg" height="400" width="700" />
+</div>
 <h1 align="center">Hi 👋, I'm Gaurav kumar</h1>
 <h3 align="center">Learning Web Development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
@@ -11,6 +13,7 @@
    <a href="https://www.linkedin.com/in/gaurav-vats1999">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <h2 align="center"> :hammer_and_wrench: Languages and Tools </h2>
   <p> Tech I know. </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" height="50" width="50" />
