@@ -11,8 +11,9 @@
    <a href="https://linkedin.com/in/www.linkedin.com/in/gaurav-vats1999">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="https://instagram.com/gaurav_vats1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/mast
-</p>
+  <p> Tech I know. </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" height="50" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" height="50" width="50" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=70gaurav&show_icons=true&locale=en" alt="70gaurav" /></p>
 
