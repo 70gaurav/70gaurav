@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://linkedin.com/in/www.linkedin.com/in/gaurav-vats1999">
+   <a href="www.linkedin.com/in/gaurav-vats1999">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <p> Tech I know. </p>
