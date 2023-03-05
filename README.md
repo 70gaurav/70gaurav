@@ -18,6 +18,7 @@
   <p > Tech I know. </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" height="50" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain-wordmark.svg" alt="Javascript" height="50" width="50" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=70gaurav&show_icons=true&locale=en" alt="70gaurav" /></p>
 
