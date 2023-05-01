@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Gaurav kumar </h1>
+<h1 align="center">Hi 👋, I'm Gaurav  </h1>
 <h3 align="center">Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=70gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="70gaurav" /> </p>
