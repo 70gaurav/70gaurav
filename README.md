@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav kumar </h1>
-<h3 align="center">Front End Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">Front End Developer<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Fgifs%2F507629-creative-coding-perfect-loop-gif&psig=AOvVaw08Ik6bMFBqcjxAr161KMzW&ust=1683344284004000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjaxaOg3f4CFQAAAAAdAAAAABAK" width="30"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=70gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="70gaurav" /> </p>
 <div align="center">
