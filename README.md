@@ -6,7 +6,7 @@
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
   </div>
 
-- 🌱 I’m currently looking fo
+- 🌱 I’m currently looking for a job
 
 
 - 📫 How to reach me **gk17265@gmail.com**
