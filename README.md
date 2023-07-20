@@ -6,9 +6,9 @@
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
   </div>
 
-● 🌱 currently looking for a job as a frontend developer
+● 🌱 currently looking for a job as a frontend developer.
 
-● 👨‍💻 Exploring backend technologies
+● 👨‍💻 Exploring backend technologies.
 
 ● 📫 How to reach me **gk17265@gmail.com**
 
