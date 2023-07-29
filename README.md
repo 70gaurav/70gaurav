@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=70gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="70gaurav" /> </p>
 <div align="center">
 <!--   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" /> -->
-  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/screen%20open.gif" />
-  </div>
+<!--   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/screen%20open.gif" />
+  </div> -->
 
 ● 🌱 currently looking for a job as a frontend developer.
 
