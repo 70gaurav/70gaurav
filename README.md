@@ -9,7 +9,7 @@
 
 ● 🌱 currently looking for a job as a frontend developer.
 
-● 👨‍💻 Exploring backend technologies.
+● 👨‍💻 Exploring Backend technologies.
 
 ● 📫 How to reach me **gk17265@gmail.com**
 
