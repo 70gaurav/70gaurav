@@ -7,7 +7,6 @@
   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/screen%20open.gif" />
   </div>
 
-● 🌱 currently looking for a job as a frontend developer.
 
 ● 👨‍💻 Exploring Backend technologies.
 
