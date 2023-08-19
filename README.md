@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="hello" /> , I'm Gaurav Kumar</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="100" alt="hello" /> , I'm Gaurav Kumar</h1>
 <h3 align="center">Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=70gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="70gaurav" /> </p>
