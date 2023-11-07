@@ -8,7 +8,7 @@
   </div>
 
 
-● 👨‍💻 Exploring Microservices with Node JS and React.
+● 👨‍💻 waiting...
 
 ● 📫 How to reach me **gk17265@gmail.com**
 
