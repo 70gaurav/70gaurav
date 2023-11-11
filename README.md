@@ -8,7 +8,7 @@
   </div>
 
 
-● 👨‍💻 waiting...
+● 👨‍💻 exploring microservices....
 
 ● 📫 How to reach me **gk17265@gmail.com**
 
