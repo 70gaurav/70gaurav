@@ -8,7 +8,7 @@
   </div>
 
 
-● 👨‍💻 exploring microservices....
+● 👨‍💻 full stack developer 
 
 ● 📫 How to reach me **gk17265@gmail.com**
 
