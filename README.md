@@ -11,6 +11,7 @@
 ● 👨‍💻 Full Stack Developer 
 
 ● 📫 How to reach me **gk17265@gmail.com**
+📒 Learning - Typescript 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
