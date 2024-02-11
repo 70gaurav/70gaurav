@@ -10,7 +10,6 @@
 
 ● 👨‍💻 Full Stack Developer 
 
-🔍ts
 
 ● 📫 How to reach me **gk17265@gmail.com**
 
