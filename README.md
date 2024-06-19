@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100"/>
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="100" alt="hello" /> , I'm Gaurav Kumar</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="100" alt="hello" /> , I'm Gaurav Kumar  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="100"/></h1>
+  
 <h3 align="center">Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=70gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="70gaurav" /> </p>
