@@ -22,7 +22,7 @@
 <!--   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/screen%20open.gif" /> -->
 <!--   <img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" /> -->
   
-<a href="https://www.linkedin.com/in/gaurav-kumar-webdev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="gaurav-vats1999" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gaurav-kumar-webdev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="gaurav-vats1999" height="100" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
